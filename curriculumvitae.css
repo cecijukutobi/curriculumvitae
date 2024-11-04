@@ -1,8 +1,8 @@
-head{
-    
-}
+head{}
 
 body{
+    background-image: url('M3U1/Imagenes/cvitaeeffectblanco.jpg');
+    z-index: -1;
 }
 
 h1{
