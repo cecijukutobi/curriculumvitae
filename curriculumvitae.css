@@ -15,3 +15,21 @@ color: black;
 .destacados{
     font-weight: bold;
 }
+
+#texto{
+    width: 300px;
+    height: 400px;
+    background-color: #dbc2db;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid slateblue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: left;
+}
+#texto:hover{
+    background-color: black;
+}
+#texto p{
+    color: white;
+}
+
